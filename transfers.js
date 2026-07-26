@@ -1,11 +1,11 @@
 const express = require('express');
 const router = express.Router();
 
-const store = require('../db/store');
-const { newId, now } = require('../utils/helpers');
-const { logEventInDraft } = require('../utils/eventLogger');
-const { requireAuth } = require('../middleware/auth');
-const transferQueue = require('../queue/transferQueue');
+const store = require('./store');
+const { newId, now } = require('./helpers');
+const { logEventInDraft } = require('./eventLogger');
+const { requireAuth } = require('./auth');
+const transferQueue = require('./transferQueue');
 
 // GET /api/transfers — my transfers
 router.get('/', requireAuth, (req, res) => {
