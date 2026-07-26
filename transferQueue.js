@@ -1,7 +1,7 @@
-const store = require('../db/store');
-const { newId, now } = require('../utils/helpers');
-const { logEventInDraft } = require('../utils/eventLogger');
-const fraud = require('../utils/fraudDetection');
+const store = require('./store');
+const { newId, now } = require('./helpers');
+const { logEventInDraft } = require('./eventLogger');
+const fraud = require('./fraudDetection');
 
 // Simple in-memory FIFO queue of transfer IDs waiting to be settled.
 const pending = [];
