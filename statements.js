@@ -1,8 +1,8 @@
 const express = require('express');
 const router = express.Router();
 
-const store = require('../db/store');
-const { requireAuth } = require('../middleware/auth');
+const store = require('./store');
+const { requireAuth } = require('./auth');
 
 // GET /api/statements/:accountId?from=ISO&to=ISO
 router.get('/:accountId', requireAuth, (req, res) => {
