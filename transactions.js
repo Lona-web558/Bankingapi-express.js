@@ -1,10 +1,10 @@
 const express = require('express');
 const router = express.Router();
 
-const store = require('../db/store');
-const { newId, now } = require('../utils/helpers');
-const { logEventInDraft } = require('../utils/eventLogger');
-const { requireAuth } = require('../middleware/auth');
+const store = require('./store');
+const { newId, now } = require('./helpers');
+const { logEventInDraft } = require('./eventLogger');
+const { requireAuth } = require('./auth');
 
 const LARGE_WITHDRAWAL_THRESHOLD = 30000;
 
