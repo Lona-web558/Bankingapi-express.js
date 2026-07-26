@@ -1,0 +1,20 @@
+{
+  "name": "banking-api",
+  "version": "1.0.0",
+  "description": "Full-stack Banking API simulator — accounts, wallets, transfers, loans, PIN + OTP auth, ACID transactions, event logging, fraud detection, queue processing",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "cors": "^2.8.5",
+    "jsonwebtoken": "^9.0.2",
+    "bcryptjs": "^2.4.3",
+    "dotenv": "^16.4.5"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
