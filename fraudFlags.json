@@ -1,0 +1,12 @@
+[
+  {
+    "id": "flag_b8273f54546ecca8",
+    "transferId": null,
+    "transactionId": null,
+    "userId": "usr_b856586fea456586",
+    "rule": "large_withdrawal",
+    "message": "Withdrawal of 35000 exceeds the large-withdrawal threshold of 30000",
+    "createdAt": "2026-07-20T09:00:00.000Z",
+    "resolved": false
+  }
+]
