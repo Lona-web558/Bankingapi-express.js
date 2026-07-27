@@ -1,0 +1,30 @@
+[
+  {
+    "id": "evt_5fa6c50566b78d9e",
+    "type": "user.registered",
+    "userId": "usr_a1013c2fd3ff3b39",
+    "details": {
+      "username": "thabo.mokoena"
+    },
+    "createdAt": "2026-03-29T09:00:00.000Z"
+  },
+  {
+    "id": "evt_f7625fc437173411",
+    "type": "transfer.completed",
+    "userId": "usr_a1013c2fd3ff3b39",
+    "details": {
+      "transferId": "trf_6b445a2deda72d0f"
+    },
+    "createdAt": "2026-07-17T09:00:00.000Z"
+  },
+  {
+    "id": "evt_7f5607fcc0435138",
+    "type": "transfer.failed",
+    "userId": "usr_b856586fea456586",
+    "details": {
+      "transferId": "trf_8fbdd712c06a608a",
+      "reason": "External bank transfers are not settled in this demo (no correspondent network) — destination SWIFT/BIC CHASUS33XXX is not this bank"
+    },
+    "createdAt": "2026-07-26T09:00:00.000Z"
+  }
+]
