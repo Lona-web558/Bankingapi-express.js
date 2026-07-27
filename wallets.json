@@ -1,0 +1,23 @@
+[
+  {
+    "id": "wal_8852f3e58c23205b",
+    "userId": "usr_a1013c2fd3ff3b39",
+    "balance": 325.5,
+    "currency": "ZAR",
+    "createdAt": "2026-03-29T08:00:00.000Z"
+  },
+  {
+    "id": "wal_5c708a6c6240c7fe",
+    "userId": "usr_a3deb7a83c0c3974",
+    "balance": 40,
+    "currency": "ZAR",
+    "createdAt": "2026-04-08T08:00:00.000Z"
+  },
+  {
+    "id": "wal_c3ea3f09a057f5d7",
+    "userId": "usr_b856586fea456586",
+    "balance": 1200,
+    "currency": "ZAR",
+    "createdAt": "2026-04-18T08:00:00.000Z"
+  }
+]
