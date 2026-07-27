@@ -1,0 +1,32 @@
+[
+  {
+    "id": "usr_a1013c2fd3ff3b39",
+    "username": "thabo.mokoena",
+    "email": "thabo.mokoena@example.com",
+    "passwordHash": "$2a$10$PLACEHOLDERa109e36947ad56de1dca1c",
+    "pinHash": "$2a$10$PLACEHOLDERa388f562e286fdf28986f9",
+    "pinFailedAttempts": 0,
+    "pinLockedUntil": null,
+    "createdAt": "2026-03-29T08:00:00.000Z"
+  },
+  {
+    "id": "usr_a3deb7a83c0c3974",
+    "username": "lindiwe.dlamini",
+    "email": "lindiwe.dlamini@example.com",
+    "passwordHash": "$2a$10$PLACEHOLDERa109e36947ad56de1dca1c",
+    "pinHash": "$2a$10$PLACEHOLDER6bd44ccbcb332868f388c5",
+    "pinFailedAttempts": 0,
+    "pinLockedUntil": null,
+    "createdAt": "2026-04-08T08:00:00.000Z"
+  },
+  {
+    "id": "usr_b856586fea456586",
+    "username": "sipho.ndlovu",
+    "email": "sipho.ndlovu@example.com",
+    "passwordHash": "$2a$10$PLACEHOLDERa109e36947ad56de1dca1c",
+    "pinHash": "$2a$10$PLACEHOLDERcaa43aab9927357204b62b",
+    "pinFailedAttempts": 0,
+    "pinLockedUntil": null,
+    "createdAt": "2026-04-18T08:00:00.000Z"
+  }
+]
