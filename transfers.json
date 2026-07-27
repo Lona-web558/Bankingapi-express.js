@@ -1,0 +1,42 @@
+[
+  {
+    "id": "trf_6b445a2deda72d0f",
+    "userId": "usr_a1013c2fd3ff3b39",
+    "fromAccountId": "acc_ef303d91be517359",
+    "toAccountNumber": "6424536209",
+    "toBranchCode": null,
+    "toRoutingCode": null,
+    "toSwiftBic": null,
+    "amount": 750,
+    "description": "Split for the trip",
+    "status": "completed",
+    "createdAt": "2026-07-17T09:00:00.000Z"
+  },
+  {
+    "id": "trf_20067a6334da826c",
+    "userId": "usr_a3deb7a83c0c3974",
+    "fromAccountId": "acc_70ab34167998163b",
+    "toAccountNumber": "4021558800",
+    "toBranchCode": "632005",
+    "toRoutingCode": "632005",
+    "toSwiftBic": "FIRNZAJJXXX",
+    "amount": 2200,
+    "description": "Invoice #114 payment",
+    "status": "queued",
+    "createdAt": "2026-07-25T09:00:00.000Z"
+  },
+  {
+    "id": "trf_8fbdd712c06a608a",
+    "userId": "usr_b856586fea456586",
+    "fromAccountId": "acc_582edca1424abbe0",
+    "toAccountNumber": "5590012234",
+    "toBranchCode": null,
+    "toRoutingCode": null,
+    "toSwiftBic": "CHASUS33XXX",
+    "amount": 15000,
+    "description": "Overseas supplier payment",
+    "status": "failed",
+    "failReason": "External bank transfers are not settled in this demo (no correspondent network) — destination SWIFT/BIC CHASUS33XXX is not this bank",
+    "createdAt": "2026-07-26T09:00:00.000Z"
+  }
+]
