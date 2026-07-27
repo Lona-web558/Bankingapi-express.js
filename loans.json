@@ -1,0 +1,38 @@
+[
+  {
+    "id": "loan_28e4a3c7e954d88e",
+    "userId": "usr_a1013c2fd3ff3b39",
+    "amount": 15000,
+    "termMonths": 12,
+    "purpose": "Home renovation",
+    "interestRate": 14.5,
+    "status": "approved",
+    "createdAt": "2026-05-28T09:00:00.000Z",
+    "decidedAt": "2026-05-30T09:00:00.000Z",
+    "decidedBy": "admin"
+  },
+  {
+    "id": "loan_01ba8945e76f3aa8",
+    "userId": "usr_a3deb7a83c0c3974",
+    "amount": 3000,
+    "termMonths": 6,
+    "purpose": "Medical expense",
+    "interestRate": 8.5,
+    "status": "pending",
+    "createdAt": "2026-07-24T09:00:00.000Z",
+    "decidedAt": null,
+    "decidedBy": null
+  },
+  {
+    "id": "loan_f86ba0afc3e03444",
+    "userId": "usr_b856586fea456586",
+    "amount": 60000,
+    "termMonths": 24,
+    "purpose": "Business expansion",
+    "interestRate": 18,
+    "status": "rejected",
+    "createdAt": "2026-06-17T09:00:00.000Z",
+    "decidedAt": "2026-06-18T09:00:00.000Z",
+    "decidedBy": "admin"
+  }
+]
