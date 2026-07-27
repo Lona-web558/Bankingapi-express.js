@@ -1,0 +1,110 @@
+[
+  {
+    "id": "txn_ae4f13ca5b445e35",
+    "accountId": "acc_ef303d91be517359",
+    "type": "deposit",
+    "amount": 5000,
+    "balanceAfter": 14200.82,
+    "description": "Salary deposit",
+    "createdAt": "2026-07-02T09:00:00.000Z"
+  },
+  {
+    "id": "txn_90cf1a2b7de54604",
+    "accountId": "acc_ef303d91be517359",
+    "type": "withdraw",
+    "amount": -850.5,
+    "balanceAfter": 13350.32,
+    "description": "Groceries",
+    "createdAt": "2026-07-07T09:00:00.000Z"
+  },
+  {
+    "id": "txn_545198f13fc47432",
+    "accountId": "acc_ef303d91be517359",
+    "type": "withdraw",
+    "amount": -1200,
+    "balanceAfter": 12150.32,
+    "description": "Rent contribution",
+    "createdAt": "2026-07-12T09:00:00.000Z"
+  },
+  {
+    "id": "txn_9643b6bc4988cc8b",
+    "accountId": "acc_ef303d91be517359",
+    "type": "deposit",
+    "amount": 300,
+    "balanceAfter": 12450.32,
+    "description": "Refund",
+    "createdAt": "2026-07-22T09:00:00.000Z"
+  },
+  {
+    "id": "txn_5c54d5e5ee8251cb",
+    "accountId": "acc_b739c236438831ae",
+    "type": "deposit",
+    "amount": 5000,
+    "balanceAfter": 2640.5,
+    "description": "Salary deposit",
+    "createdAt": "2026-07-02T09:00:00.000Z"
+  },
+  {
+    "id": "txn_918c3ff38a1bacea",
+    "accountId": "acc_b739c236438831ae",
+    "type": "withdraw",
+    "amount": -850.5,
+    "balanceAfter": 1790,
+    "description": "Groceries",
+    "createdAt": "2026-07-07T09:00:00.000Z"
+  },
+  {
+    "id": "txn_ca762aa27ee356a6",
+    "accountId": "acc_b739c236438831ae",
+    "type": "withdraw",
+    "amount": -1200,
+    "balanceAfter": 590,
+    "description": "Rent contribution",
+    "createdAt": "2026-07-12T09:00:00.000Z"
+  },
+  {
+    "id": "txn_02af41d999764390",
+    "accountId": "acc_b739c236438831ae",
+    "type": "deposit",
+    "amount": 300,
+    "balanceAfter": 890,
+    "description": "Refund",
+    "createdAt": "2026-07-22T09:00:00.000Z"
+  },
+  {
+    "id": "txn_8d48f13c1cabb546",
+    "accountId": "acc_582edca1424abbe0",
+    "type": "deposit",
+    "amount": 5000,
+    "balanceAfter": 55951.25,
+    "description": "Salary deposit",
+    "createdAt": "2026-07-02T09:00:00.000Z"
+  },
+  {
+    "id": "txn_febc87e9c066e470",
+    "accountId": "acc_582edca1424abbe0",
+    "type": "withdraw",
+    "amount": -850.5,
+    "balanceAfter": 55100.75,
+    "description": "Groceries",
+    "createdAt": "2026-07-07T09:00:00.000Z"
+  },
+  {
+    "id": "txn_4821c1e34f62c809",
+    "accountId": "acc_582edca1424abbe0",
+    "type": "withdraw",
+    "amount": -1200,
+    "balanceAfter": 53900.75,
+    "description": "Rent contribution",
+    "createdAt": "2026-07-12T09:00:00.000Z"
+  },
+  {
+    "id": "txn_6dbb3721bb248c08",
+    "accountId": "acc_582edca1424abbe0",
+    "type": "deposit",
+    "amount": 300,
+    "balanceAfter": 54200.75,
+    "description": "Refund",
+    "createdAt": "2026-07-22T09:00:00.000Z"
+  }
+]
