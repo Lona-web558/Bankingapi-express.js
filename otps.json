@@ -1,0 +1,11 @@
+[
+  {
+    "id": "otp_feae25af02349e9c",
+    "userId": "usr_a1013c2fd3ff3b39",
+    "code": "482913",
+    "purpose": "transfer",
+    "expiresAt": "2026-07-28T09:00:00.000Z",
+    "used": true,
+    "createdAt": "2026-07-17T09:00:00.000Z"
+  }
+]
