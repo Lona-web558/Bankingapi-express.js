@@ -1,0 +1,74 @@
+[
+  {
+    "id": "acc_ef303d91be517359",
+    "userId": "usr_a1013c2fd3ff3b39",
+    "accountNumber": "6096693343",
+    "type": "checking",
+    "currency": "ZAR",
+    "balance": 12450.32,
+    "branchCode": "198765",
+    "routingCode": "198765",
+    "swiftBic": "GFBKZAJJXXX",
+    "createdAt": "2026-03-30T08:00:00.000Z"
+  },
+  {
+    "id": "acc_d16841cf608f7070",
+    "userId": "usr_a1013c2fd3ff3b39",
+    "accountNumber": "8353069860",
+    "type": "savings",
+    "currency": "ZAR",
+    "balance": 30000,
+    "branchCode": "198765",
+    "routingCode": "198765",
+    "swiftBic": "GFBKZAJJXXX",
+    "createdAt": "2026-03-30T08:00:00.000Z"
+  },
+  {
+    "id": "acc_b739c236438831ae",
+    "userId": "usr_a3deb7a83c0c3974",
+    "accountNumber": "4040794709",
+    "type": "checking",
+    "currency": "ZAR",
+    "balance": 890,
+    "branchCode": "198765",
+    "routingCode": "198765",
+    "swiftBic": "GFBKZAJJXXX",
+    "createdAt": "2026-04-09T08:00:00.000Z"
+  },
+  {
+    "id": "acc_70ab34167998163b",
+    "userId": "usr_a3deb7a83c0c3974",
+    "accountNumber": "9740761815",
+    "type": "savings",
+    "currency": "ZAR",
+    "balance": 500,
+    "branchCode": "198765",
+    "routingCode": "198765",
+    "swiftBic": "GFBKZAJJXXX",
+    "createdAt": "2026-04-09T08:00:00.000Z"
+  },
+  {
+    "id": "acc_582edca1424abbe0",
+    "userId": "usr_b856586fea456586",
+    "accountNumber": "6424536209",
+    "type": "checking",
+    "currency": "ZAR",
+    "balance": 54200.75,
+    "branchCode": "198765",
+    "routingCode": "198765",
+    "swiftBic": "GFBKZAJJXXX",
+    "createdAt": "2026-04-19T08:00:00.000Z"
+  },
+  {
+    "id": "acc_697222f6f2ae36f1",
+    "userId": "usr_b856586fea456586",
+    "accountNumber": "6296234081",
+    "type": "savings",
+    "currency": "ZAR",
+    "balance": 120000,
+    "branchCode": "198765",
+    "routingCode": "198765",
+    "swiftBic": "GFBKZAJJXXX",
+    "createdAt": "2026-04-19T08:00:00.000Z"
+  }
+]
